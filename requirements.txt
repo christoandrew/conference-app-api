@@ -1,0 +1,5 @@
+Django==4.2
+djangogrpcframework==0.2.1
+djangorestframework==3.14.0
+drf_nested_routers==0.93.4
+protobuf==4.23.1
