@@ -3,7 +3,7 @@ from django_grpc_framework import proto_serializers
 from rest_framework import serializers
 
 from api.models import *
-from api import attendee_service_pb2
+from lib.grpc import attendee_service_pb2
 
 
 class UserSerializer(serializers.HyperlinkedModelSerializer):

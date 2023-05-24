@@ -1,5 +1,5 @@
 import grpc
-from api import attendee_service_pb2_grpc, attendee_service_pb2
+from lib.grpc import attendee_service_pb2_grpc
 from api.models import *
 from api.serializers import *
 from django.contrib.auth.models import User, Group

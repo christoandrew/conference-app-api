@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b6e27b9-a577-4952-82d1-eeadc933c5b8" name="Changes" comment="" />
+    <list default="true" id="1b6e27b9-a577-4952-82d1-eeadc933c5b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/conference_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/conference_api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_grpc/__gen__/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_grpc/__gen__/attendee_service_pb2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_grpc/__gen__/attendee_service_pb2.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_grpc/__gen__/attendee_service_pb2_grpc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_grpc/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_grpc/attendee_service_pb2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_grpc/attendee_service_pb2.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_grpc/attendee_service_pb2_grpc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_grpc/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_service_pb2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_service_pb2.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/attendee_service_pb2_grpc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="2PAJguJKv6mtnXFFAWspThry9ar" />
   <component name="ProjectViewState">
@@ -14,13 +38,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/christoandrew/conference-app/conference_app_api",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/grpc" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="conference_api" type="Python.DjangoServer" factoryName="Django server">
       <module name="conference_api" />
